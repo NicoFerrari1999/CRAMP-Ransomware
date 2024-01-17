@@ -1,5 +1,6 @@
 # Dynamic-Ransomware-Dataset (DANGEROUS)
 The dataset contains both "goodwares" and ransomwares.
+All the files are encrypted using the password "infected".
 
 # Contents
 
