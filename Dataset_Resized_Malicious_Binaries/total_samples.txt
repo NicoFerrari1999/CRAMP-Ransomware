@@ -1,0 +1,13 @@
+conti: 117
+cryptbot: 456
+dharma: 111
+formbook: 213
+gandcrab: 135
+hive: 180
+lockbit: 131
+nitro: 134
+phobos: 102
+sodinokibi: 158
+virlock: 120
+---------------
+Total Sum: 1857

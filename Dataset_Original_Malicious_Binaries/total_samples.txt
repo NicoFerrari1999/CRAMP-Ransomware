@@ -1,0 +1,20 @@
+babuk: 81
+blackmatter: 70
+cerber: 96
+chaos: 67
+conti: 117
+cryptbot: 456
+darkside: 56
+dharma: 111
+formbook: 213
+gandcrab: 135
+hive: 180
+lockbit: 131
+medusalocker: 72
+nitro: 134
+phobos: 102
+sodinokibi: 158
+virlock: 120
+wastedlocker: 74
+---------------
+Total Sum: 2373
