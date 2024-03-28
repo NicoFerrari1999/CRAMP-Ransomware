@@ -1,8 +1,3 @@
 # Dynamic-Ransomware-Dataset (DANGEROUS)
-The dataset contains both "goodwares" and ransomwares.
-All the files are encrypted using the password "infected".
-
-# Contents
-
-- (DANGEROUS) Dataset_Original_Malicious_Binaries contains the original zipped binaries of ransomware
-- (DANGEROUS) Dataset_Resized_Malicious_Binaries contains a resized version of Dataset_Original_Malicious_Binaries without the families with <100 samples
+All the ransomware and the benign samples hashes are divided into different .txt files.
+Each .txt file represent the family of the Ransomware.
